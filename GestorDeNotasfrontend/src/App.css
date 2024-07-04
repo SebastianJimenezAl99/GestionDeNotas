@@ -1,0 +1,7 @@
+.full-screen-div {
+    width: 100vw; /* 100% del ancho de la ventana */
+    height: 100vh; /* 100% de la altura de la ventana */
+    position: fixed; /* Fija el div para que siempre ocupe toda la pantalla */
+    top: 0; /* Posición en la parte superior de la pantalla */
+    left: 0; /* Posición en la parte izquierda de la pantalla */
+  }
